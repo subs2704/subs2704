@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @subs2704
+- 👀 I’m interested in Stata, SPSS, SurveyCTO and R
+- 🌱 I’m currently learning Stata and SurveyCTO
+- 💞️ I’m looking to collaborate on Stata
+- 📫 How to reach me subarna43279@bau.edu.bd
